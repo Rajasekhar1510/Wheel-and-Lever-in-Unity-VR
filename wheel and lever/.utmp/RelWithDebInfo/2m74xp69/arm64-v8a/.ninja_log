@@ -1,0 +1,10 @@
+# ninja log v5
+44	1996	7582913057647362	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2bb23379e5ce8635
+28	2007	7582913058006442	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f070953cc3309da
+1	2047	7582913058431312	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	26cba28eae3f144b
+56	2075	7582913058629927	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ce5b43672849ae10
+66	2182	7582913059853333	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ad6eb7cf6e798d46
+11	2247	7582913060542085	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	62019a478a676be
+35	2455	7582913062592022	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a53f7974fb57469
+20	2639	7582913064471123	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bbe0bd95dbff35ce
+2640	2835	7582913066414734	D:/GIT GRP/Wheel-and-Lever-in-Unity-VR/wheel and lever/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2m74xp69/obj/arm64-v8a/libgame.so	6fed7a0a55ab2485
